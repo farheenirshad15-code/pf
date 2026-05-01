@@ -1,0 +1,5 @@
+
+
+double area = length * width;
+double totalCost = area * pricePerSqFt;
+System.out.printf("Total cost: $%.v2f%n", totalCost);
